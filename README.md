@@ -10,6 +10,7 @@
 - ⚡ Fun fact **we have the freedom to react to things**
 
 <h3 align="left">Connect with me:</h3>
+arjun43250@gmail.com
 <p align="left">
 </p>
 
