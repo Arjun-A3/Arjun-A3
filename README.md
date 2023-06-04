@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **arjun43250@gmail.com**
 
-- ⚡ Fun fact **we have the freedom to react to things**
+- ⚡ Fun Fact **Insanity is the key**
 
 <h3 align="left">Connect with me:</h3>
 arjun43250@gmail.com
