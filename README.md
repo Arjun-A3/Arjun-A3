@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Arjun A Carby</h1>
 <h3 align="center">A passionate fullStack Developer from SouthAsia</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,JS,DSA,MERN**
+- 🌱 I’m currently learning **Java,JS,DSA,MERN**
 
 - 💬 Ask me about **JS,C++,JAVA,DSA**
 
