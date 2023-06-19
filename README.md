@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **arjun43250@gmail.com**
 
-- ⚡ Fun Fact **Insanity is the key**
+- ⚡ Fun Fact ** Always code as if the person who ends up maintaining it is a violent psychopath who knows where you live.**
 
 <h3 align="left">Connect with me:</h3>
 arjun43250@gmail.com
