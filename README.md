@@ -1,5 +1,5 @@
 <h1 align="center">Hello World!, I'm Arjun A Chandran</h1>
-<h3 align="center">A passionate fullStack Developer from SouthAsia</h3>
+<h3 align="center">An Software Engineer from SouthAsia</h3>
 
 - ⚡ Fun Fact ** Always code as if the person who ends up maintaining it is a violent psychopath who knows where you live.**
 
