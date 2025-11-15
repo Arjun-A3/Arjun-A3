@@ -11,8 +11,7 @@
 
 <p align="center">
   📍 Kerala, India | 
-  <a href="https://linkedin.com/in/arjun-a-carb/">LinkedIn</a> | 
-  <a href="mailto:arjunachandrancym@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/arjun-a-carb/">LinkedIn</a>
 </p>
 
 ---
