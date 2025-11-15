@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vlines=true&width=600&lines=Full-Stack+Developer;Aspiring+System+Architect;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vlines=true&width=600&lines=Software+Engineer;Aspiring+System+Architect;Building+Scalable+Systems" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Arjun A Chandran</h1>
@@ -79,12 +79,12 @@ I actively study and document system design patterns:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[your-username]&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[your-username]&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjun-A3&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-A3&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[your-username]&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjun-A3&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
