@@ -88,7 +88,7 @@ I actively study and document system design patterns:
 
 ---
 
-## 📊 GitHub Analytics - HCL GUVI
+## 📊 GitHub Analytics - HCL GUVI <a href="https://github.com/arjun-guvi">arjun-guvi</a>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arjun-guvi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
