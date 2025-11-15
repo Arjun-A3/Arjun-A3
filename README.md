@@ -88,6 +88,19 @@ I actively study and document system design patterns:
 
 ---
 
+## 📊 GitHub Analytics - HCL GUVI
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arjun-guvi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjun-guvi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-guvi&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 🎯 Current Goals
 
 - 🏗️ Transition into **System Architect** or **Backend Architecture** roles
