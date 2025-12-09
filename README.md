@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Arjun A Chandran</h1>
-<h3 align="center">Software Engineer | System Design Enthusiast | Web3 Builder</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   <em>Passionate about designing scalable distributed systems and blockchain infrastructure</em>
