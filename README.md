@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vlines=true&width=600&lines=Software+Engineer;Aspiring+System+Architect;Building+Scalable+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vlines=true&width=600&lines=Software+Engineer;System+Architect;Building+Systems" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Arjun A Chandran</h1>
